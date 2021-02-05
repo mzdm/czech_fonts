@@ -413,6 +413,8 @@ Zilla Slab Highlight
     </pre>
 </details>
 
+[.py script for filtering fonts from this JSON](https://gist.github.com/mzdm/c35ce0f9168bf03482830acf23c99df5#file-czech_fonts_filter-py)
+
 Note: There is still a possibility that there can be some font(s) that don't support all letters.
    
 #### For more information, visit the main repository:
